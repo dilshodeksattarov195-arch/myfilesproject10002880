@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterftringify",
+        "uuid": 16816320,
+        "checksum": "fxnqlp"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
